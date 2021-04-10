@@ -1,0 +1,3 @@
+i eat Banana , i like Banana , i don't have Banana.
+i eat Apple , i like Apple , i don't have Apple.
+i eat Grapes , i like Grapes , i don't have Grapes.
